@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="CS5551FS16.Tutorial4.Chen_Wang.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="CS5551FS16.Tutorial4.Chen_Wang"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for CS5551FS16.Tutorial4.Chen_Wang"/>
+</manifest>

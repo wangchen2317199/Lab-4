@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\TempSG\WeatherForecastApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="86b47747038965c29eb84782671d62a67106892a">
+        <dex dex="C:\TempSG\WeatherForecastApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6ab087783bbe41efa95a0abc98d029963c2f7920\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dwk89\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\TempSG\WeatherForecastApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_76db5b078f495635b5c421ba28700ef8563e06d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TempSG\WeatherForecastApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1cd0f750e600e7869e53de32d327aeea8bbe77f4">
+        <dex dex="C:\TempSG\WeatherForecastApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fadb57b7809a688991d06b539f715da25fbccae0\classes.dex" />
+    </item>
+
+</items>

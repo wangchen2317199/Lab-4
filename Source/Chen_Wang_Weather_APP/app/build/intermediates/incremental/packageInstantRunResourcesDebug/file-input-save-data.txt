@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Sep 21 20:54:38 CDT 2016
+2.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_login.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\dayforecast_fragment.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\dayforecast_fragment.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Wed Sep 21 20:54:40 CDT 2016
+base.0=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ab087783bbe41efa95a0abc98d029963c2f7920
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fadb57b7809a688991d06b539f715da25fbccae0\\classes.dex
+base.1=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fadb57b7809a688991d06b539f715da25fbccae0
+file.0=C\:\\TempSG\\WeatherForecastApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ab087783bbe41efa95a0abc98d029963c2f7920\\classes.dex
